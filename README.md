@@ -43,6 +43,7 @@ If you **don't** want the search to be case-sensitive use the parameter `false` 
 
 ### Possible Output
 A sample output could look like this:
+
 ![Sample Output](https://share.realtm.de/kw_output_sample.png)
 
 The first part of the output shows the respective keyword and the number of times it was found.
