@@ -1,0 +1,2 @@
+echo "" > wordlist
+echo "" > textfile
